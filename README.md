@@ -1,4 +1,6 @@
-#### Oi 👋
+#### Olá, meu nome é Maria Eduarda👋 :smile:,
+
+Atualmente estou estudando na Ebac o curso de engenheiro de Front-end.
 
 ### Habildades
 
@@ -8,9 +10,18 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduarda-frontend&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduarda-frontend&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 
-###Projetos  
+### Projetos  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eduarda-frontend&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eduarda-frontend&repo=listadecompras&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-frontend&layout=compact&theme=swift)
+
+### Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin'>](https://www.linkedin.com/in/eduardasrezende)
+
