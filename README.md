@@ -13,10 +13,6 @@ Atualmente estou estudando na Ebac o curso de engenheiro de Front-end.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduarda-frontend&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Projetos  
-
-[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=eduarda-frontend&repo=listadecompras&theme=swift)](https://github.com/anuraghazra/github-readme-stats](https://github.com/Eduarda-frontend/tabela-de-classificao))
-
 ### Linguagens utilizadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-frontend&layout=compact&theme=swift)
