@@ -1,6 +1,6 @@
 #### Olá, meu nome é Maria Eduarda👋 :smile:,
 
-Atualmente estou estudando na Ebac o curso de engenheiro de Front-end.
+Atualmente estou estudando na Ebac o curso de engenheiro de Front-end. Seja bem vindo(a) ao meu perfil!
 
 ### Habildades
 
